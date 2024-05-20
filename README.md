@@ -1,4 +1,4 @@
-wazzap i learn to code to make fnaf fan games. i only use html and w/e google uses 
+Hello. Im a selfthought programmer with basic knowledge in Python and pygame, C# and SQL. Willing to learn new things and always looking forward to any feedback.
 
 <!---
 Tahiirako/Tahiirako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
